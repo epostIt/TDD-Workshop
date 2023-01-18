@@ -2,6 +2,8 @@
 A typescript project with simple prompts to practice TDD on.
 
 ### Setup
+Make sure you have node installed.
+
 `npm install`
 
 If you get a failure, try `npm install --force`
